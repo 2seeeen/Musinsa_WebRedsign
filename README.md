@@ -1,6 +1,8 @@
 # Musinsa_WebRedsign
-Musinsa Web Redsign Team Project
-<br><br>
+ProjectName Musinsa Web Redsign
+Period 24.03.21~24.06.17<br>
+Team Project<br>
+Work 기획, 디자인, 퍼블리싱, 배포<br>
 
 <br>
 팀 회고록<br>
