@@ -3,6 +3,15 @@ ProjectName Musinsa Web Redsign
 Period 24.03.21~24.06.17<br>
 Team Project<br>
 Work 기획, 디자인, 퍼블리싱, 배포<br>
+<br><br>
+~24-06-12까지 기획, 디자인, 메인페이지HTML 작업<br>
+&nbsp;**특이사항**<br>
+&nbsp;1. 랭킹부분 이미지흐림 수정하기<br>
+&nbsp;2. 카테고리 동적 구현하기<br>
+&nbsp;3. 서브페이지 HTML 작업하기<br>
+<br>
+
+
 
 <br>
 팀 회고록<br>
